@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-86410344-2'
 
 menu:
-- {name: 'Blog', url: 'blog'}
+- {name: 'Blog', url: 'blog', title: ''}
 # - {name: 'About', url: 'menu/about.html'}
-- {name: 'Tags', url: 'menu/tags.html'}
-- {name: 'Contacts', url: 'menu/contacts.html'}
+- {name: 'Tags', url: 'menu/tags.html', title: ''}
+- {name: 'CV', url: 'menu/cv.html', title: 'Open CV'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
