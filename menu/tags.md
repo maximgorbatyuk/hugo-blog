@@ -3,7 +3,7 @@ layout: page
 title: Tags
 ---
 
-<div class="">
+<ul class="">
     {%- capture site_tags -%}
     {%- for tag in site.tags -%}
         {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
@@ -12,11 +12,11 @@ title: Tags
     {%- assign tags_list = site_tags | split:',' | sort -%}
 
     {%- for tag in tags_list -%}
-        <div class="d-inline-block">
-            <a href="#{{- tag -}}" class="mr-1 tag-btn">#{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
-        </div>
+        <li>
+            <a href="#{{- tag -}}" class="mr-1 tag-btn">#{{- tag -}}</a> ({{site.tags[tag].size}})
+        </li>
     {%- endfor -%}
-</div>
+</ul>
 
 
 <div id="full-tags-list">
