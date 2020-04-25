@@ -2,10 +2,10 @@
 
   <nav class="menu-content">
     {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.url }}" title="{{ item.title }}">{{ item.name }}</a>
+      <a href="{{ site.github.url }}/{{ item.url }}" title="{{ item.title }}" class="no-border-bottom">{{ item.name }}</a>
     {% endfor %}
 
-    <a target="_blank" href="https://maximgorbatyuk.gitbook.io/knowledge-base/" title="Knowledge base">KB</a>
+    <a target="_blank" href="https://maximgorbatyuk.gitbook.io/knowledge-base/" title="Knowledge base" class="no-border-bottom">KB</a>
   </nav>
 
   <nav class="social-icons">
