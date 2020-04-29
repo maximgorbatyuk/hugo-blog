@@ -10,8 +10,9 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
-  <meta property="og:site_name" content="Maxim Gorbatyuk, blog">
-  <meta property="og:title" content="Maxim Gorbatyuk, blog">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="Maxim Gorbatyuk">
+  <meta property="og:title" content="Maxim Gorbatyuk's blog">
   <meta property="og:description"
         content="Maxim Gorbatyuk, .NET software developer. If you search for help with .NET, feel free to contact me.">
   <meta property="og:type" content="article">
@@ -58,10 +59,20 @@
       });
   </script>
 
+  <script type="application/ld+json">
+    {"@type":"WebSite",
+      "url":"https://maximgorbatyuk.github.io/",
+      "name":"M.Gorbatyuk",
+      "author":{"@type":"Person","name":"Maxim Gorbatyuk"},
+      "headline":"Maxim Gorbatyuk’s blog",
+      "description":"Maxim Gorbatyuk, .NET software developer. If you search for help with .NET, feel free to contact me.",
+      "@context":"https://schema.org"}
+  </script>
+
   <!-- Google Analytics -->
   {% include google-analytics.html %}
 
   <!-- Use Jekyll SEO plugin -->
-  {% seo %}
+  <!-- {% seo %} -->
 
 </head>
