@@ -15,6 +15,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'telegram', link: 'https://t.me/maximgorbatyuk', title: 'Contact me in Telegram'}
+- {icon: 'telegram', link: 'https://t.me/teamleadmaxim', title: 'Channel'}
 - {icon: 'github', link: 'https://www.github.com/maximgorbatyuk', title: 'View my repositories'}
 - {icon: 'instagram', link: 'https://instagram.com/maxim.gorbatyuk', title: 'Follow me on instagram'}
 # - {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/', title: ''}
