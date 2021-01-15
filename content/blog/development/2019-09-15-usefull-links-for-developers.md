@@ -6,6 +6,7 @@ tags: [references]
 ---
 
 # Database
+
 - [Интерактивный учебник по SQL](http://www.sql-tutorial.ru/)
 - Нормализация отношений. Шесть нормальных форм - [habr.com](https://habr.com/ru/post/254773/)
 - [Руководство по проектированию реляционных баз данных (14-15 часть из 15)](https://habr.com/ru/post/194714/)
@@ -16,6 +17,7 @@ tags: [references]
 ---
 
 # Multilayered architecture
+
 - [What is N-Tier Architecture](https://stackify.com/n-tier-architecture/)
 - [ASP.NET N-Layered Applications](https://imar.spaanjaars.com/573/aspnet-n-layered-applications-introduction-part-1)
 - [N-Tier Architecture. ASP.NET Example](https://dotnetdaily.net/featured/n-tier-architecture-asp-net)
@@ -24,6 +26,7 @@ tags: [references]
 ---
 
 # ASP.NET MVC, Web api
+
 - [Документация по ASP.NET](https://docs.microsoft.com/ru-ru/aspnet/?view=aspnetcore-2.2#pivot=aspnet)
 - [ASP.NET MVC. Урок 0. Вступление](https://habr.com/ru/post/175999/)
 - [ Изучаем ASP.NET MVC 5 - professorweb.ru](https://professorweb.ru/my/ASP_NET/mvc/level1/)
@@ -35,7 +38,8 @@ tags: [references]
 
 ---
 
-# Must have 
+# Must have
+
 - GIT - https://try.github.io/
 - Unit-test – XUnit, MS Unit, NUnit - [docs.microsoft](https://docs.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2019) and [stackify.com](https://stackify.com/unit-testing-basics-best-practices/)
 - [Fake it easy](https://fakeiteasy.github.io/)
@@ -44,6 +48,3 @@ tags: [references]
 - [ReSharper](https://www.jetbrains.com/resharper/)
 - [VS Extensions](https://marketplace.visualstudio.com/)
 - MVC life cycle - [docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/lifecycle-of-an-aspnet-mvc-5-application)
-
-
-

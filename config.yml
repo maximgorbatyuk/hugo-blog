@@ -1,0 +1,122 @@
+baseURL: "https://maximgorbatyuk.github.io/"
+languageCode: "en-us"
+title: "Maxim Gorbatyuk blog"
+theme: "PaperMod"
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-86410344-2
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: development # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Maxim Gorbatyuk blog
+    description: "ExampleSite description"
+    author: Me
+    # author: ["Me", "You"] # multiple authors
+
+    images: ["<link or path of image for opengraph, twitter-cards>"]
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    comments: false
+    defaultTheme: auto
+    disableThemeToggle: false
+    disableSpecial1stPost: false
+
+    assets:
+        # disableHLJS: true # to disable highlightjs
+        # disableFingerprinting: true
+        favicon: "<link / abs url>"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: "Home"
+        icon: /apple-touch-icon.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: false # needs to be explicitly set
+        title: ExampleSite
+        imageUrl: "<img location>"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: Welcome to my blog
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/"
+        - name: stackoverflow
+          url: "https://stackoverflow.com"
+        - name: github
+          url: "https://github.com/"
+
+    #analytics:
+    #    google:
+    #        SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+menu:
+    main:
+        - identifier: blog
+          name: blog
+          url: /blog/
+          weight: 10
+        
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 20
+
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 30
+
+        - identifier: cv
+          name: CV
+          url: /cv/
+          weight: 40
