@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interview on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/interview/</link>
+    <description>Recent content in interview on Maxim Gorbatyuk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Мой опыт проведения 1000 интервью. Егор Бугаенко</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2020-03-05-my-experience-of-interviews/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2020-03-05-my-experience-of-interviews/</guid>
+      <description>В начале доклада Егор предупреждает, что все, что он расскажет в течение последующих 40 минут, относится к его опыту и к его компании, поэтому необходимо отнестись к его словам с долей скепсиса и иронии. Тем не менее, это его мнение, и он рассказывает &amp;ldquo;от души&amp;rdquo;. Егор действительно провел около тысячи интервью, но конкретной цифры он не знает. В видео представлены рассуждения о рассчетах цифры, но для конспекта они мало важны.</description>
+    </item>
+    
+    <item>
+      <title>Что я должен спросить у своей будущей команды. The Joel test.</title>
+      <link>https://maximgorbatyuk.github.io/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</guid>
+      <description>Disclamer Источник: https://www.joelonsoftware.com. Эта статья - вольный перевод без претензии на достоверность.
+В переводе не стремился сохранить формулировки автора, а использовал перефразирования, которые использую в своей речи сам.
+ Тест содержит 12 быстрых вопросов, и каждый ответ &amp;ldquo;Да&amp;rdquo; дает один балл. Градация результата такова: 12 баллов - идеально, 11 - это приемлемо, 10 и меньше - у команды есть проблемы. Ну а если команда набрала только лишь 2-3, то у нее действительно серьезные проблемы.</description>
+    </item>
+    
+    <item>
+      <title>Вопросы будущему работодателю</title>
+      <link>https://maximgorbatyuk.github.io/blog/employment/2019-09-19-questions-for-future-employer/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/employment/2019-09-19-questions-for-future-employer/</guid>
+      <description>Часто во время интервью спрашивают нас о чем-то, но это ведь собеседование, значит и кандидат на позицию тоже выбирает из компаний. Необходимо задавать вопросы на собеседованиях, и чем они провокационней, тем лучше.
+Вопросы Как часто проводятся груминги, дэйли и другие митинги Agile? Необходимо понаблюдать за реакцией собеседника: устало он отвечает или бодро. Вряд ли отсутствие энтузиазма в голосе будет при отличных и продуктивных митингах.
+Как часто происходят пожары? Пожар - это когда какой-то сотрудник остается в офисе допоздна и тушит его.</description>
+    </item>
+    
+    <item>
+      <title>Вопросы компании при собеседованиях</title>
+      <link>https://maximgorbatyuk.github.io/blog/employment/2019-09-19-questions-for-company/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/employment/2019-09-19-questions-for-company/</guid>
+      <description>Источник: habr.com, но ссылку утерял, а поиск по гуглу ничего не дал
+ Работа и дружба Что способствует дружеским отношениям внутри вашей команды? Большинство людей не признают, что члены их команды не близки друг другу или им не хватает командной работы. Спрашивая о том, чем связана команда, вы получите четкое представление о том, насколько все дружелюбны и сплочены. Члены одной команды посещают конференции вместе, а члены другой были друзьями еще до того, как присоединиться к компании.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tdd on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/tdd/</link>
+    <description>Recent content in tdd on Maxim Gorbatyuk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/tdd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TDD вверх ногами. Е. Бугаенко</title>
+      <link>https://maximgorbatyuk.github.io/blog/development/2020-02-15-tdd-upside-down/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/development/2020-02-15-tdd-upside-down/</guid>
+      <description>Краткий конспект доклада TDD вверх ногами.
+Автоматизированные тесты Егор считает, что юниттесты - неотъемлемая часть работы программиста. Егор приводит в пример метафору про сетку безопасности, которую натягивают гимнасты для отработки своих трюков. Егор очень сомневается, что гимнасты не будут натягивать сеть по причинам, по которым некоторые разработчики отказываются писать тесты:
+ &amp;ldquo;У нас нет времени&amp;rdquo; &amp;ldquo;У нас нет денег&amp;rdquo; &amp;ldquo;У нас никогда и не было тестов (сети)&amp;rdquo;  Сеть безопасности дает гимнастам уверенность, что совершённые ошибки в тренировке не будут стоить здоровья и карьеры трюкачам.</description>
+    </item>
+    
+  </channel>
+</rss>

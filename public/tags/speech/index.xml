@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speech on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/speech/</link>
+    <description>Recent content in speech on Maxim Gorbatyuk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/speech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Не думайте о качестве, думайте о скорости. Конспект доклада Егора Бугаенко</title>
+      <link>https://maximgorbatyuk.github.io/blog/development/2019-10-27-think-about-speed-not-quality/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/development/2019-10-27-think-about-speed-not-quality/</guid>
+      <description>Источник: Видео-доклад
+ Егор считает, что разработчики должны думать в первую очередь о скорости, а не о качестве кода.
+ Mistakes must be forgivable, not enough code - not
+ А как же качество написанного? Многие считают, что качество кода низкое в целом. Но кто виноват в этом? Егор считает, что сами программисты и виновны. Можно ли его улучшить? Возможно. Есть устойчивое мнение, что хороший программист отличается от плохого тем, что он пишет код без багов.</description>
+    </item>
+    
+  </channel>
+</rss>

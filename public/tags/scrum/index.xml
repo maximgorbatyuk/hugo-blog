@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scrum on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/scrum/</link>
+    <description>Recent content in scrum on Maxim Gorbatyuk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SCRUM - революционный метод управления проектами. Джефф Сазерленд</title>
+      <link>https://maximgorbatyuk.github.io/blog/books/2019-09-19-scrum-j-sutherland/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/books/2019-09-19-scrum-j-sutherland/</guid>
+      <description>Основная характеристика - гибкость и адаптивность - позволяет реагировать на изменения в требованиях заказчика в кратчайшие сроки.
+  Планировать необходимо и полезно, но слепо следовать плану - глупо.
+  Не нужно задумываться о должностях - пусть вас знают за то, что вы делаете.
+  Сделать дело наполовину - все равно что не сделать ничего. Если работать сверхурочно, то это не значит, что успеешь больше. Слишком усердный труд приводит к усталости, которая в свою очередь приводит к браку, и его уже приходится устранять</description>
+    </item>
+    
+  </channel>
+</rss>

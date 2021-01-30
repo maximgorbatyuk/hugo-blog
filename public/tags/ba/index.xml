@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ba on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/ba/</link>
+    <description>Recent content in ba on Maxim Gorbatyuk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/ba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Идеальный Бизнес-Аналитик глазами разработчика</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2020-09-07-ideal-ba/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2020-09-07-ideal-ba/</guid>
+      <description>Недавно я послушал подкаст &amp;ldquo;Идеальный бизнес-аналитик глазами разработчика&amp;rdquo; своего очень хорошего друга. Не со всеми тезисами я был согласен, однако подкаст побудил меня начать обсуждение с участниками подкаста. А потом еще и сам побывал в этом подкасте в качестве гостя.
+Чтобы понять, кто такой &amp;ldquo;идеальный аналитик&amp;rdquo;, важно определиться с набором требований. Что я жду от аналитика как разработчик? А как тимлид? А как менеджер проекта? Сколько людей, столько и мнений, и я тоже хочу порассуждать о том, каков он - этот неуловимый идеальный аналитик.</description>
+    </item>
+    
+  </channel>
+</rss>

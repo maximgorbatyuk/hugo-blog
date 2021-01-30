@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>product development on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/product-development/</link>
+    <description>Recent content in product development on Maxim Gorbatyuk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/product-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Желание научиться новому видно по горящим глазам разработчика</title>
+      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-03-07-seeking-new-to-learn-is-important/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-03-07-seeking-new-to-learn-is-important/</guid>
+      <description>Предыстория Идея этой статьи родилась, пока я писал статью на другую тему: &amp;ldquo;Product development vs outsourcing&amp;rdquo;. За мою небольшую карьеру я успел поработать сначала в двух продуктовых компаниях, а затем в двух аутсорсовых. Переход с продуктовой разработки в аутсорс случился два года назад (2018) и показался мне кардинальным. С тех пор я держал в голове мысль написать об этом статью.
+Сперва мне показалось, что в продуктовой компании работать лучше. Продуктовой в данном случая я называю банк, который разрабатывал свой веб-сайт, систему мобильного онлайн-банкинг и мобильные приложения.</description>
+    </item>
+    
+  </channel>
+</rss>

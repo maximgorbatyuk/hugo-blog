@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technologies on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/technologies/</link>
+    <description>Recent content in technologies on Maxim Gorbatyuk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/technologies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Не забудьте отписаться. Subject Subscribtions в Angular и RxJS</title>
+      <link>https://maximgorbatyuk.github.io/blog/technologies/2019-09-29-you-shoul-destroy-subsribtions-in-angular/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/technologies/2019-09-29-you-shoul-destroy-subsribtions-in-angular/</guid>
+      <description>Источник: https://brianflove.com
+ Зачем Когда ты реализуешь свой компонент с участием подписок на Subject, то ты должен написать и отмену подписки, иначе будут утечеки памяти.
+Даже если зайти в описание метода ngOnDestroy, то мы увидим рекомендацию для этого:
+ ngOnDestroy(): Cleanup just before Angular destroys the directive/component. Unsubscribe observables and detach event handlers to avoid memory leaks.
+ В общем, ответ на вопрос &amp;ldquo;Когда нам лучше всего отписываться&amp;rdquo; у нас есть: мы пишем код отмены подписок в реализацию метода ngOnDestroy, чтобы она была запущена перед уничтожением компонента.</description>
+    </item>
+    
+    <item>
+      <title>Как разрабатывать сайт на jekyll на Windows 10</title>
+      <link>https://maximgorbatyuk.github.io/blog/technologies/2019-09-15-how-to-develop-with-jekyll-on-windows/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/technologies/2019-09-15-how-to-develop-with-jekyll-on-windows/</guid>
+      <description>Установка Прежде всего нужно следовать инструкции по установке на официальном сайте. Инструкция потребует от юзера установить Linux-подсистему, и уже в ней поставить ruby и jekyll.
+Гемы (gem) я ставил через sudo, потому что без супер-юзера установка ругалась на отсутствие прав на запись в определенные директории. Надеюсь, что разрабы jekyll не подложили мне &amp;ldquo;свинью&amp;rdquo;, и супер-права им я давал не во вред себе.
+Запуск Запуск сайта нужно осуществлять не с помощью стандартной для MacOs команды jekyll serve, а с помощью bundle exec jekyll serve.</description>
+    </item>
+    
+  </channel>
+</rss>
