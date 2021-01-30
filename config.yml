@@ -18,8 +18,8 @@ minify:
 params:
     env: development # to enable google analytics, opengraph, twitter-cards and schema.
     title: Maxim Gorbatyuk blog
-    description: "ExampleSite description"
-    author: Me
+    description: "Maxim Gorbatyuk's blog description"
+    author: Maxim
     # author: ["Me", "You"] # multiple authors
 
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -41,23 +41,24 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
-        icon: /apple-touch-icon.png
+        text: "Maxim's blog"
+        icon: /images/avatar.png
         iconHeight: 35
 
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
-        imageUrl: "<img location>"
-        imageWidth: 120
-        imageHeight: 120
-        imageTitle: my image
+        enabled: true # needs to be explicitly set
+        title: Maxim Gorbatyuk
+        subtitle: Software .NET developer
+        imageUrl: "/images/me.png"
+        imageWidth: 240
+        imageHeight: 240
+        imageTitle: That's me
         buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+            - name: My blog
+              url: blog
+            - name: About me
+              url: about
 
     # home-info mode
     homeInfoParams:
@@ -66,11 +67,16 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
+          url: "https://twitter.com/GorbatyukMaxim"
+        - name: instagram
+          url: "https://instagram.com/maxim.gorbatyuk"
+        - name: telegram
+          url: "https://t.me/maximgorbatyuk"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/maximgorbatyuk"
+        - name: gitlab
+          url: "https://gitlab.com/m.gorbatyuk"
+        
 
     #analytics:
     #    google:
@@ -111,9 +117,9 @@ menu:
           url: /about/
           weight: 20
         
-        - identifier: categories
-          name: Categories
-          url: /categories/
+        - identifier: archives
+          name: Archives
+          url: /archives/
           weight: 30
 
         - identifier: tags
