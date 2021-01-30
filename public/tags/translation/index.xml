@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>translation on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/translation/</link>
+    <description>Recent content in translation on Maxim Gorbatyuk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/translation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что я должен спросить у своей будущей команды. The Joel test.</title>
+      <link>https://maximgorbatyuk.github.io/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</guid>
+      <description>Disclamer Источник: https://www.joelonsoftware.com. Эта статья - вольный перевод без претензии на достоверность.
+В переводе не стремился сохранить формулировки автора, а использовал перефразирования, которые использую в своей речи сам.
+ Тест содержит 12 быстрых вопросов, и каждый ответ &amp;ldquo;Да&amp;rdquo; дает один балл. Градация результата такова: 12 баллов - идеально, 11 - это приемлемо, 10 и меньше - у команды есть проблемы. Ну а если команда набрала только лишь 2-3, то у нее действительно серьезные проблемы.</description>
+    </item>
+    
+  </channel>
+</rss>

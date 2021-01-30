@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opinion on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/opinion/</link>
+    <description>Recent content in opinion on Maxim Gorbatyuk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Знания сами по себе как аргумент в споре</title>
+      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-09-15-knowledge-as-argue-arguement/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-09-15-knowledge-as-argue-arguement/</guid>
+      <description>На днях посмотрел видео, где автор видео критикует книгу о &amp;ldquo;Мужском движении&amp;rdquo;. Книга, как и само мужское движение, так себе. Видео немного лучше, но тоже среднее, на мой взгляд. Но мой пост не об этом. Больше всего в видео меня зацепил этот момент, где автор берет факт из книги и разносит его в пух и прах, как он сам думает.
+ Факт из книги: &amp;ldquo;&amp;hellip; в некоторых регионах России количество разводов достигает более ста процентов от количества заключенных браков&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Идеальный Бизнес-Аналитик глазами разработчика</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2020-09-07-ideal-ba/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2020-09-07-ideal-ba/</guid>
+      <description>Недавно я послушал подкаст &amp;ldquo;Идеальный бизнес-аналитик глазами разработчика&amp;rdquo; своего очень хорошего друга. Не со всеми тезисами я был согласен, однако подкаст побудил меня начать обсуждение с участниками подкаста. А потом еще и сам побывал в этом подкасте в качестве гостя.
+Чтобы понять, кто такой &amp;ldquo;идеальный аналитик&amp;rdquo;, важно определиться с набором требований. Что я жду от аналитика как разработчик? А как тимлид? А как менеджер проекта? Сколько людей, столько и мнений, и я тоже хочу порассуждать о том, каков он - этот неуловимый идеальный аналитик.</description>
+    </item>
+    
+    <item>
+      <title>Мысли о мультфильме &#34;Кунг-фу Панда&#34; и о становлении себя</title>
+      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-08-01-thoughts-about-kung-fu-panda-movie/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-08-01-thoughts-about-kung-fu-panda-movie/</guid>
+      <description>Недавно пересмотрел мультфильм &amp;ldquo;Кунг-фу Панда&amp;rdquo;, а точнее два из трех. Последний раз смотрел почти десять лет назад, поэтому многое уже забылось. Сейчас, когда я вступил в осознанный возраст в 26 лет ¯\_(ツ)_/¯, философия мультфильма видится совершенно другой. Мультфильм о том, как обрести себя, как отпустить прошлое и как начать жить сегодняшним днем.
+В первом мультфильме По, главный персонаж, воспользовался случаем и изменил свою жизнь. Случай - его посчитали избранным Воином Дракона.</description>
+    </item>
+    
+    <item>
+      <title>Не берись делать то, чего не понимаешь</title>
+      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-04-24-do-not-develop-what-you-dont-understand/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-04-24-do-not-develop-what-you-dont-understand/</guid>
+      <description>Написать эту статью меня натолкнул один случай. В моей команде двое junior-девелоперов: парень и девушка, и девушке я делал код-ревью. Задача была простая: ранее она написал экстеншн-метод (extension method из .NET) для валидации свойств объекта, и я предложил перенести этот экстеншн в сам класс объекта в качестве публичного метода. Девушка перенесла метод, и в качестве аргументов передавала те же свойства, которые нужно было провалидировать. Это было странное решение, ведь свойства объекта доступны в самом методе, нет нужды передавать их извне.</description>
+    </item>
+    
+    <item>
+      <title>Желание научиться новому видно по горящим глазам разработчика</title>
+      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-03-07-seeking-new-to-learn-is-important/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-03-07-seeking-new-to-learn-is-important/</guid>
+      <description>Предыстория Идея этой статьи родилась, пока я писал статью на другую тему: &amp;ldquo;Product development vs outsourcing&amp;rdquo;. За мою небольшую карьеру я успел поработать сначала в двух продуктовых компаниях, а затем в двух аутсорсовых. Переход с продуктовой разработки в аутсорс случился два года назад (2018) и показался мне кардинальным. С тех пор я держал в голове мысль написать об этом статью.
+Сперва мне показалось, что в продуктовой компании работать лучше. Продуктовой в данном случая я называю банк, который разрабатывал свой веб-сайт, систему мобильного онлайн-банкинг и мобильные приложения.</description>
+    </item>
+    
+    <item>
+      <title>О социальном трудоустройстве</title>
+      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-02-27-social-employment-about/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-02-27-social-employment-about/</guid>
+      <description>Написать эту статью меня побудил случай в Германии. Я решил провести пару недель в Европе, и чтобы комфортно пользоваться интернетом, решил купить симкарту и пакет в размером в 3гб. Казалось бы, одна из самых простых операций в СНГ, которая не заняла бы много времени. Но мы ведь в Германии, стране, где капитализм и социализм переплелись в крайне занятный тандем.
+Что нужно туристу, чтобы начать пользоваться интернетом в другой стране?
+ Купить симкарту.</description>
+    </item>
+    
+    <item>
+      <title>Мое мнение о фильме &#34;Паразиты&#34;</title>
+      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-02-13-about-gisaengchung-movie/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-02-13-about-gisaengchung-movie/</guid>
+      <description>Я ходил на фильм &amp;ldquo;Паразиты&amp;rdquo; летом прошлого года, когда он только вышел в прокат в Казахстане. Помню, что он показался мне немного запутанным, но сюжет, игра актеров и повествование завораживалb. Мне хотелось смотреть его еще и еще и, наконец, узнать, чем же он закончится. Я - небольшой критик кино, я не могу сходу назвать и увидеть сценарные и операторские приемы, которые делают хорошие фильмы хорошими, а их отсутствие - плохие фильмы плохими.</description>
+    </item>
+    
+    <item>
+      <title>Действительно ли образование в СССР было &#34;лучшим в мире&#34;?</title>
+      <link>https://maximgorbatyuk.github.io/blog/different/2019-09-29-was-ussr-education-really-good/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/different/2019-09-29-was-ussr-education-really-good/</guid>
+      <description>Каждый раз, когда говорят, что &amp;ldquo;в советском союзе было самое лучшее образование в мире&amp;rdquo;, я в это несильно верю.
+Разница подходов образования Я не могу судить о западном школьном образовании, потому что я сам не учился в американской школе, однако могу сделать некоторые предположения на основе общеизвестной &amp;ldquo;болонской&amp;rdquo; системе образования в университетах и образовательных документальных видео американского производства.
+Западное образование строится на желании самого обучающегося. Американскому школьнику не дают знания в том объеме, в котором их дают советсткому.</description>
+    </item>
+    
+  </channel>
+</rss>

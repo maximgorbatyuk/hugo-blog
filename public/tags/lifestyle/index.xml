@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lifestyle on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/lifestyle/</link>
+    <description>Recent content in lifestyle on Maxim Gorbatyuk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Манифест Чистого Программиста, или краткий конспект книги «Чистый Код» Роберта Мартина</title>
+      <link>https://maximgorbatyuk.github.io/blog/books/2019-09-19-clean-code/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/books/2019-09-19-clean-code/</guid>
+      <description>Источник: https://habr.com/ru/post/424051/
+ Данная статья является конспектом книги &amp;ldquo;Чистый Код&amp;rdquo; Роберта Мартина и моим пониманием того, каким Чистый Код должен быть. Тут нет разделов о тестировании, TDD, о том какая должна быть архитектура и т.д. Здесь все только о том, каким должен быть Чистый Код. Да, возможно, тема Чистого Кода уже заезженна, но тем не менее еще не все с ним знакомы и, тем более, я не встретил аналогов контента, который содержится в моей статье.</description>
+    </item>
+    
+    <item>
+      <title>Программист-фанатик. Чед Фаулер</title>
+      <link>https://maximgorbatyuk.github.io/blog/books/2019-09-19-fanatic-programmer/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/books/2019-09-19-fanatic-programmer/</guid>
+      <description>В целом книга очень похожа на книгу «Идеальный программист» Р. Мартина. Прослеживаются общие мысли: нужно быть заметным, заявлять о себе, не замыкаться. Ну все такое. Книга построена в виде набора советов, сгруппированных по общим тематикам.
+Часть 1. Найди свой рынок. Твои навыки — это твой продукт. Нужно вкладывать в него: учиться новым технологиям и другим скифам, которые позволят решать проблемы работодателя.
+Совет 1. Будь впереди или погибнешь?
+Есть множество путей вложения.</description>
+    </item>
+    
+    <item>
+      <title>Выжимка книги &#34;Просто космос&#34;</title>
+      <link>https://maximgorbatyuk.github.io/blog/books/2019-09-08-book-just-space/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/books/2019-09-08-book-just-space/</guid>
+      <description>Оригинал
+ Спринты вместо больших планов  Вместо планов на 20 лет вперед планируйте спринтами — ставьте 3 цели на 9 недель Убедитесь, что поставленных целей действительно стоит добиваться В конце 9-недельного спринта оцените результаты и наградите себя  Продуктивный день  Все входящие задачи сразу «выгружайте» из памяти в список дел Научитесь говорить «нет» второстепенным делам. Освобождайте время, силы и внимание для главного Посвятите первые три часа рабочего времени приоритетным задачам Помните, многозадачность приводит к потерям времени и качества работы Заранее планируйте качественный отдых В конце недели подводите итоги, определяйте приоритеты и планируйте следующую неделю  Борьба с прокрастинацией  Займитесь подготовкой к первому шагу, чтобы его было просто сделать Объедините полезные действия с чем-то, что приносит вам удовольствие Тренируйте фокус и внимание с помощью медитации, начните с трех вдохов и выдохов Накачивайте силу воли как мышцу.</description>
+    </item>
+    
+  </channel>
+</rss>
