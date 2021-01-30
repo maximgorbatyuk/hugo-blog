@@ -3,9 +3,11 @@ layout: post
 title: Что я должен спросить у своей будущей команды. The Joel test.
 category: employment
 tags: [interview, employment, development, translation, original]
+date: "2019-09-22"
 ---
 
 ### Disclamer
+
 Источник: [https://www.joelonsoftware.com](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/). Эта статья - вольный перевод без претензии на достоверность.
 
 В переводе не стремился сохранить формулировки автора, а использовал перефразирования, которые использую в своей речи сам.

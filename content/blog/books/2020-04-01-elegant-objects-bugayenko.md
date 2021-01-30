@@ -3,6 +3,7 @@ layout: post
 title: Мнение о книге "Elegant Objects" (Vol.1) Е.Бугаенко
 category: book
 tags: [codestyle, advices, programming, yegor256]
+date: "2020-04-01"
 ---
 
 ## О книге

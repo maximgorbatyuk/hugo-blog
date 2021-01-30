@@ -3,6 +3,7 @@ layout: post
 title: Выжимка книги "Просто космос"
 category: book
 tags: [books, education, lifestyle]
+date: "2019-09-08"
 ---
 
 ![Источник](https://www.mann-ivanov-ferber.ru/assets/files/content-pages/infografika/prosto-kosmos/mif-prostocosmos-011.jpg)

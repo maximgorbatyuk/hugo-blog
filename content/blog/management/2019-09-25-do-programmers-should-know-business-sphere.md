@@ -3,6 +3,7 @@ layout: post
 title: Должны ли программисты изучать бизнес-сферу проекта
 category: management
 tags: [original, project management, processes]
+date: "2019-09-25"
 ---
 
 В комментариях к одному видео некто задал интересный вопрос:

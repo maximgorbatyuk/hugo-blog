@@ -3,6 +3,7 @@ layout: post
 title: Правильно ли мы тестируем? Егор Бугаенко
 category: management
 tags: [project management, processes, yegor256, testing]
+date: "2020-02-08"
 ---
 
 Эта статья - конспект видео-доклада Егора Бугаенко. Доклад доступен на youtube по [ссылке](https://youtu.be/H0calDDfHL8).

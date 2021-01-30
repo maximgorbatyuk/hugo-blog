@@ -3,6 +3,7 @@ layout: post
 title: Useful links for developers [2019]
 category: software development
 tags: [references]
+date: "2019-09-15"
 ---
 
 # Database

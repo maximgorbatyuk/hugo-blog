@@ -3,6 +3,7 @@ layout: post
 title: Не забудьте отписаться. Subject Subscribtions в Angular и RxJS
 category: technologies
 tags: [development, technologies, angular, rxjs]
+date: "2019-09-29"
 ---
 
 Источник: [https://brianflove.com](https://brianflove.com/2016/12/11/anguar-2-unsubscribe-observables/)

@@ -3,6 +3,7 @@ layout: post
 title: Мое мнение о фильме "Паразиты"
 category: pulp fiction
 tags: [movie, opinion]
+date: "2020-02-13"
 ---
 
 ![Logo](/assets/img/2020-02-13-about-gisaengchung-movie/parasites-logo.png)

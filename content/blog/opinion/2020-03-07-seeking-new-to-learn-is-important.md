@@ -3,6 +3,7 @@ layout: post
 title: Желание научиться новому видно по горящим глазам разработчика
 category: pulp fiction
 tags: [opinion, product development, outsourcing, motivation]
+date: "2020-03-07"
 ---
 
 # Предыстория

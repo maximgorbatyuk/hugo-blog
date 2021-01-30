@@ -3,6 +3,7 @@ layout: post
 title: Как разрабатывать сайт на jekyll на Windows 10
 category: technologies
 tags: [jekyll, technologies, windows]
+date: "2019-09-15"
 ---
 
 # Установка

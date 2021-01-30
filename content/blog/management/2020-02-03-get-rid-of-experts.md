@@ -3,6 +3,7 @@ layout: post
 title: Избавляйтесь от экспертов. Егор Бугаенко
 category: management
 tags: [original, project management, processes, yegor256]
+date: "2020-02-03"
 ---
 
 Эта статья - конспект видео-доклада Егора Бугаенко. Доклад доступен на youtube по [ссылке](https://youtu.be/1-NJc2Q5a0U).

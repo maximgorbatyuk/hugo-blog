@@ -3,6 +3,7 @@ layout: post
 title: Модель S.T.A.R.S. для оценки Soft-Skills
 category: management
 tags: [original, project management]
+date: "2019-09-08"
 ---
 
 # Situation

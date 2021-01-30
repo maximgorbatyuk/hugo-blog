@@ -3,6 +3,7 @@ layout: post
 title: Вопросы компании при собеседованиях
 category: employment
 tags: [interview, employment, copypaste]
+date: "2019-09-19"
 ---
 
 Источник: habr.com, но ссылку утерял, а поиск по гуглу ничего не дал

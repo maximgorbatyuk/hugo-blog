@@ -3,6 +3,7 @@ layout: post
 title: Книга "5 пороков команды"
 category: book
 tags: [books, education]
+date: "2019-09-08"
 ---
 
 Источник конспекта: [Статья на Манн-Иванов-Федоров](https://blog.mann-ivanov-ferber.ru/2016/07/07/5-porokov-komandy-i-sposoby-ix-ustraneniya/)

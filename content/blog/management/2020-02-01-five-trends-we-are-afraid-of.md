@@ -3,6 +3,7 @@ layout: post
 title: Five trends we are afraid of. Егор Бугаенко
 category: management
 tags: [original, project management, processes, yegor256]
+date: "2020-02-01"
 ---
 
 Эта статья - конспект видео-доклада Егора Бугаенко. Доклад доступен на youtube по [ссылке](https://youtu.be/i84uvEWDeMc).

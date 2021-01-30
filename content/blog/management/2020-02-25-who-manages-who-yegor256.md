@@ -3,6 +3,7 @@ layout: post
 title: Who Manages Who? Егор Бугаенко
 category: management
 tags: [project management, processes, yegor256]
+date: "2020-02-25"
 ---
 
 Видео доклада: [Youtube-канал](https://www.youtube.com/watch?v=sZoJ3gO4PSo) Егора Бугаенко.

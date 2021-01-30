@@ -3,6 +3,7 @@ layout: post
 title: TDD вверх ногами. Е. Бугаенко
 category: development
 tags: [project management, processes, tdd, yegor256]
+date: "2020-02-15"
 ---
 
 Краткий конспект доклада [TDD вверх ногами](https://youtu.be/3QT7jaoOa9w).

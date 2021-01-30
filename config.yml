@@ -30,15 +30,19 @@ params:
     defaultTheme: auto
     disableThemeToggle: false
     disableSpecial1stPost: false
+    comments: false
+    hidemeta: false
+    showtoc: false
+    tocopen: false
 
     assets:
         # disableHLJS: true # to disable highlightjs
         # disableFingerprinting: true
         favicon: "/images/avatar.png"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+        favicon16x16: "/images/avatar.png"
+        favicon32x32: "/images/avatar.png"
+        apple_touch_icon: "/images/avatar.png"
+        safari_pinned_tab: "/images/avatar.png"
 
     label:
         text: "Maxim's blog"
@@ -117,12 +121,22 @@ menu:
           url: /about/
           weight: 20
         
-        - identifier: archives
-          name: Archives
-          url: /archives/
+        - identifier: archive
+          name: Archive
+          url: /archive/
           weight: 30
+
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 40
 
         - identifier: tags
           name: Tags
           url: /tags/
-          weight: 40
+          weight: 50
+        
+        - identifier: kb
+          name: KB
+          url: https://maximgorbatyuk.gitbook.io/knowledge-base/
+          weight: 60

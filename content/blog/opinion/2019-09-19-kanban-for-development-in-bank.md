@@ -3,6 +3,7 @@ layout: post
 title: Scrum vs Kanban для разработки в банке
 category: pulp fiction
 tags: [processes, development, original]
+date: "2019-09-19"
 ---
 
 *Disclaimer: Данная статья — только мнение отдельно взятого разработчика о бизнес-процессах в отдельно взятой компании. Никаких неопровержимых доказательств здесь не приводят.*

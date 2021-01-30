@@ -3,6 +3,7 @@ layout: post
 title: Три маленьких таракана на пути к большому будущему. Максим Дорофеев
 category: different
 tags: [video, jedi techniques]
+date: "2019-10-05"
 ---
 
 Источник: [Видео  на youtube](https://www.youtube.com/watch?v=Uj44oXX8VMY)

@@ -3,6 +3,7 @@ layout: post
 title: Как не пропустить невалидный код в репозиторий
 category: development
 tags: [.net, processes, cicd, pipeline]
+date: "2020-02-16"
 ---
 
 Эту же статью я опубликовал на [habr.com](https://habr.com/ru/post/488626/).
