@@ -102,21 +102,21 @@ outputs:
 menu:
     main:
         - identifier: blog
-          name: blog
+          name: Blog
           url: /blog/
           weight: 10
+
+        - identifier: about
+          name: About me
+          url: /about/
+          weight: 20
         
         - identifier: categories
-          name: categories
+          name: Categories
           url: /categories/
-          weight: 20
-
-        - identifier: tags
-          name: tags
-          url: /tags/
           weight: 30
 
-        - identifier: cv
-          name: CV
-          url: /cv/
+        - identifier: tags
+          name: Tags
+          url: /tags/
           weight: 40
