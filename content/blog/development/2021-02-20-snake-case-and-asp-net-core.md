@@ -6,11 +6,11 @@ tags: [.net, tutorial]
 date: "2021-02-20"
 ---
 
-I was asked to change my ASP Web API application data processing format.  I had to move all the JSON data format from `camelCase` to `snake_case`.
+The standard way to accept and return data in ASP.NET world is camel case. But at the current project, I was asked to change my ASP Web API application data processing format. I had to move all the JSON data format from `camelCase` to `snake_case`.
 
 ![Camel case vs Snake case](/images/blog/development/2021-02-20-snake-case-and-asp-net-core/snake_vs_camel.jpg)
 
-The standard way to accept and return data in ASP.NET world is camel case. The reason for it was fact that we had to start developing React application as a SPA of our system. I thought that nothing will be a trouble, but I had met some issues. Now, I want to share with you my solution of how to make your ASP Web API and JSON in the Snake Case be the best friends.
+The reason for it was fact that we had to start developing React application as a SPA of our system. I thought that nothing will be a trouble, but I had met some issues. Now, I want to share with you my solution of how to make your ASP Web API and JSON in the Snake Case be the best friends.
 
 I have implemented in and published a simple template application. A link to the GitHub repository you can find at the end of the article. All the samples will be written for ASP.NET Core built with .net5.
 
