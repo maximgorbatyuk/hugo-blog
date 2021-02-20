@@ -8,7 +8,7 @@ date: "2021-02-20"
 
 I was asked to change my ASP Web API application data processing format.  I had to move all the JSON data format from `camelCase` to `snake_case`.
 
-![Camel case vs Snake case](/static/images/blog/development/2021-02-20-snake-case-and-asp-net-core/snake_vs_camel.jpg)
+![Camel case vs Snake case](/images/blog/development/2021-02-20-snake-case-and-asp-net-core/snake_vs_camel.jpg)
 
 The standard way to accept and return data in ASP.NET world is camel case. The reason for it was fact that we had to start developing React application as a SPA of our system. I thought that nothing will be a trouble, but I had met some issues. Now, I want to share with you my solution of how to make your ASP Web API and JSON in the Snake Case be the best friends.
 
@@ -101,11 +101,11 @@ public class Startup
 
 Now our Web API works with the Snake Case: requests and responses are being transformed into JSON with the Snake Case format.
 
-![Data with Snake Case format](/static/images/blog/development/2021-02-20-snake-case-and-asp-net-core/sc_data.png)
+![Data with Snake Case format](/images/blog/development/2021-02-20-snake-case-and-asp-net-core/sc_data.png)
 
 But now we have one minor issue…
 
-![The error CC output](/static/images/blog/development/2021-02-20-snake-case-and-asp-net-core/cc_error.png)
+![The error CC output](/images/blog/development/2021-02-20-snake-case-and-asp-net-core/cc_error.png)
 
 The image above represents a validation error. The error’s output format is a mix of Camel Case for keys and the Pascal Case for property names. The behavior of output format was not changed even we have applied a custom name policy.
 
@@ -206,6 +206,6 @@ public class Startup
 
 Now your validation error output looks like this:
 
-![The Error in SC format](/static/images/blog/development/2021-02-20-snake-case-and-asp-net-core/sc_error.png)
+![The Error in SC format](/images/blog/development/2021-02-20-snake-case-and-asp-net-core/sc_error.png)
 
 Now, our ASP.NET Core application accepts and returns JSON with the Snake Case format, and validation error output was changed too.  Here is a [GitHub repository](https://github.com/maximgorbatyuk/snake-case-net-demo) where you can find the implemented solution.
