@@ -79,7 +79,7 @@ params:
         - name: github
           url: "https://github.com/maximgorbatyuk"
         - name: gitlab
-          url: "https://gitlab.com/m.gorbatyuk"
+          url: "https://gitlab.com/maximgorbatyuk"
         
 
     #analytics:
