@@ -17,9 +17,9 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Maxim Gorbatyuk blog
-    description: "Maxim Gorbatyuk's blog description"
-    author: Maxim
+    title: "Maxim Gorbatyuk blog"
+    description: "Maxim Gorbatyuk blogging about web development, dotnet and frontend programming, and life."
+    author: "Maxim Gorbatyuk"
     # author: ["Me", "You"] # multiple authors
 
     images: ["<link or path of image for opengraph, twitter-cards>"]
