@@ -3,6 +3,7 @@ title: "About me"
 layout: "about"
 url: "/about"
 summary: "about"
+description: "Maxim Gorbatyuk blogging about web development, dotnet and frontend programming, and life."
 disableShare: true
 ---
 
