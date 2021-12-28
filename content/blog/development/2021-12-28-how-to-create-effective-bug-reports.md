@@ -33,7 +33,7 @@ Description: "Хорошо описанный баг-репорт значите
 
 Таким образом, хороший баг-репорт будет выглядеть примерно так:
 
-```
+```plaintext
 Title: There is no password security requirement error on the register page
 
 Steps to reproduce:
