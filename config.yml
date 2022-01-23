@@ -137,5 +137,5 @@ menu:
         
         - identifier: kb
           name: KB
-          url: https://maximgorbatyuk.gitbook.io/knowledge-base/
+          url: https://maximgorbatyuk.notion.site/maximgorbatyuk/Knowledge-base-f87dcc7b0e98498499cfd606d06bd0c7
           weight: 60
