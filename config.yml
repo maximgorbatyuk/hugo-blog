@@ -53,7 +53,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Maxim Gorbatyuk
-        subtitle: Software .NET developer
+        subtitle: Software .NET developer, teamlead, and mentor
         imageUrl: "/images/me.jpg"
         imageWidth: 240
         imageTitle: That's me
