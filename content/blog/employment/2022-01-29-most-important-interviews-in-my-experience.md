@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Худшие собеседования в моем опыте
+title: О двух интервью, которые стали для меня примером
 category: employment
 tags: [employment, interview]
 date: "2022-01-29"
