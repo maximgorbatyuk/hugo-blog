@@ -30,7 +30,8 @@ I pay much attention to the quality. I build reliable software solutions. Also, 
 - [LinkedIn](https://www.linkedin.com/in/maxim-gorbatyuk-240801bb/)
 - [Telegram channel](https://t.me/teamleadmaxim)
 - [Getmentor.dev profile](https://getmentor.dev/mentor/maxim-gorbatyuk-437)
-- [Solvert.io profile](https://solvery.io/ru/mentor/maximgorbatyuk)
+- [Solveri.io profile](https://solvery.io/ru/mentor/maximgorbatyuk)
+- [Medium.com](https://maximgorbatyuk.medium.com)
 - [GitHub](https://github.com/maximgorbatyuk)
 - [GitLab](https://gitlab.com/m.gorbatyuk)
 
