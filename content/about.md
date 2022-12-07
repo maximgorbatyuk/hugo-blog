@@ -28,7 +28,7 @@ I pay much attention to the quality. I build reliable software solutions. Also, 
 ## Where you can find me
 
 - [LinkedIn](https://www.linkedin.com/in/maxim-gorbatyuk-240801bb/)
-- [Telegram channel](https://t.me/teamleadmaxim)
+- [Telegram channel](https://t.me/mgorbatyuk_dev)
 - [Getmentor.dev profile](https://getmentor.dev/mentor/maxim-gorbatyuk-437)
 - [Solveri.io profile](https://solvery.io/ru/mentor/maximgorbatyuk)
 - [Medium.com](https://maximgorbatyuk.medium.com)
