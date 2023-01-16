@@ -63,6 +63,8 @@ params:
               url: blog
             - name: About me
               url: about
+            - name: Public speaking
+              url: speaking
 
     # home-info mode
     homeInfoParams:
@@ -131,9 +133,9 @@ menu:
           url: /search/
           weight: 40
 
-        - identifier: tags
-          name: Tags
-          url: /tags/
+        - identifier: speaking
+          name: Public speaking
+          url: /speaking/
           weight: 50
         
         - identifier: kb
