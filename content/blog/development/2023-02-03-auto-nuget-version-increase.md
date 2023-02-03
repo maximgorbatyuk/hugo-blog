@@ -131,4 +131,6 @@ The `NUGET_API_KEY` is a Github secret variable that contains the API key for nu
 
 That's all. Now you can push your code to the `dev` branch and it will be tested by Github Actions. When you are ready to deploy new version of nuget package, you need to merge the `dev` branch to the `main` branch. After that, the `release.yml` will be triggered and the new version of the nuget package will be deployed to nuget.org.
 
+If you want to use the same approach in [Gitlab CI](https://docs.gitlab.com/ee/ci/variables/predefined_variables.html), you may use `CI_PIPELINE_IID` variable instead of `github.run_number`. It represents the project-level IID (internal ID) of the current pipeline as well as github.run_number in Github Actions.
+
 I hope this tutorial will be useful for you. If you have any questions, you may find my contacts [here](https://maximgorbatyuk.com/about/#where-you-can-find-me).
