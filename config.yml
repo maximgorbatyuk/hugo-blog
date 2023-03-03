@@ -72,8 +72,6 @@ params:
         Content: Welcome to my blog
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/GorbatyukMaxim"
         - name: instagram
           url: "https://instagram.com/maxim.gorbatyuk"
         - name: telegram
