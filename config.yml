@@ -46,7 +46,7 @@ params:
         safari_pinned_tab: "/images/avatar.png"
 
     label:
-        text: "Maxim's blog"
+        text: "mgorbatyuk.dev"
         icon: /images/avatar.png
         iconHeight: 35
 
@@ -55,8 +55,8 @@ params:
         enabled: true # needs to be explicitly set
         title: Maxim Gorbatyuk
         subtitle: Software .NET developer, teamlead, and mentor
-        imageUrl: "/images/me.jpg"
-        imageWidth: 240
+        imageUrl: "/images/me_2.jpg"
+        imageWidth: 400
         imageTitle: That's me
         buttons:
             - name: My blog
