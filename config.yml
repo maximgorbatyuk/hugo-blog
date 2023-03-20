@@ -1,8 +1,8 @@
 baseURL: "https://maximgorbatyuk.github.io/"
 languageCode: "en-us"
-title: "Maxim Gorbatyuk blog"
+title: "mgorbatyuk.dev"
 theme: "PaperMod"
-paginate: 5
+paginate: 8
 
 googleAnalytics: UA-86410344-2
 enableRobotsTXT: true
@@ -18,7 +18,7 @@ minify:
 params:
     newGoogleAnalytics: G-0T63X4Y3MJ
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: "Maxim Gorbatyuk blog"
+    title: "mgorbatyuk.dev"
     description: "Maxim Gorbatyuk blogging about web development, dotnet and frontend programming, and life."
     author: "Maxim Gorbatyuk"
     # author: ["Me", "You"] # multiple authors
@@ -46,7 +46,7 @@ params:
         safari_pinned_tab: "/images/avatar.png"
 
     label:
-        text: "Maxim's blog"
+        text: "mgorbatyuk.dev"
         icon: /images/avatar.png
         iconHeight: 35
 
@@ -55,8 +55,8 @@ params:
         enabled: true # needs to be explicitly set
         title: Maxim Gorbatyuk
         subtitle: Software .NET developer, teamlead, and mentor
-        imageUrl: "/images/me.jpg"
-        imageWidth: 240
+        imageUrl: "/images/me_2.jpg"
+        imageWidth: 400
         imageTitle: That's me
         buttons:
             - name: My blog
