@@ -1,4 +1,4 @@
-baseURL: "https://maximgorbatyuk.github.io/"
+baseURL: "https://mgorbatyuk.dev/"
 languageCode: "en-us"
 title: "mgorbatyuk.dev"
 theme: "PaperMod"
@@ -23,7 +23,7 @@ params:
     author: "Maxim Gorbatyuk"
     # author: ["Me", "You"] # multiple authors
 
-    images: ["https://maximgorbatyuk.github.io/images/avatar.png"]
+    images: ["https://mgorbatyuk.dev/images/avatar.png"]
 
     ShowReadingTime: true
     ShowShareButtons: true
