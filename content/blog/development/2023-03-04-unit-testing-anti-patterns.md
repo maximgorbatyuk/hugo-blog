@@ -1002,7 +1002,7 @@ describe('Email', () => {
 });
 ```
 
-Нужно проверять не только факт наличия ошибки, но и удостовериться, что она произошла по ожидаемой причине. В строго типизированных языках программирования можно проверить тип класса эксепшена, в JS - ассертить текст сообщения.
+Нужно проверять не только факт наличия ошибки, но и удостовериться, что она произошла по ожидаемой причине. Попробуйте проверять не только текст сообщения ошибки, но и тип.
 
 ```typescript
 // test/email.test.ts
@@ -1031,6 +1031,32 @@ describe('Email', () => {
             expect(() => new Email(email).get()).to.throw('Invalid email');
         });
     });
+});
+```
+
+В JS тоже можно добавить кастомные типы ошибок.
+
+```typescript
+export class NotFoundError extends Error {
+    public status: number;
+    constructor(message: string) {
+      super(message);
+  
+      this.name = 'NotFoundError';
+      this.status = 404;
+    }
+}
+
+describe('NotFoundError', () => {
+  it('should return true for instanceof Error', () => {
+    const err = new NotFoundError('Not found');
+    expect(err instanceof Error).to.equal(true);
+  });
+
+  it('should return true for instanceof NotFoundError', () => {
+    const err = new NotFoundError('Not found');
+    expect(err instanceof NotFoundError).to.equal(true);
+  });
 });
 ```
 
