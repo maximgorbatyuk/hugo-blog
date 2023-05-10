@@ -55,7 +55,7 @@ params:
         enabled: true # needs to be explicitly set
         title: Maxim Gorbatyuk
         subtitle: Software .NET developer, teamlead, and mentor
-        imageUrl: "/images/me_2.jpg"
+        imageUrl: "/images/avatar_20230510.jpg"
         imageWidth: 400
         imageTitle: That's me
         buttons:
