@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Асинхронная работа - для всех?
+title: Как работать асинхронно, когда все вокруг хотят созвониться?
 category: management
 tags: [management, processes]
 date: "2023-05-10"
