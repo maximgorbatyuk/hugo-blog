@@ -1,7 +1,7 @@
 baseURL: "https://mgorbatyuk.dev/"
 languageCode: "en-us"
 title: "mgorbatyuk.dev"
-theme: "PaperMod"
+theme: ["PaperMod"]
 paginate: 8
 
 googleAnalytics: UA-86410344-2
