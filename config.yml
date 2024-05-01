@@ -57,6 +57,7 @@ params:
         subtitle: Software .NET developer, teamlead, and mentor
         imageUrl: "/images/avatar_20230510.jpg"
         imageWidth: 400
+        imageHeight: 425
         imageTitle: That's me
         buttons:
             - name: My blog
