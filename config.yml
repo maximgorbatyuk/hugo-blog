@@ -4,7 +4,7 @@ title: "mgorbatyuk.dev"
 theme: ["PaperMod"]
 paginate: 8
 
-googleAnalytics: UA-86410344-2
+googleAnalytics: G-0T63X4Y3MJ
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -21,7 +21,7 @@ params:
     title: "mgorbatyuk.dev"
     description: "Maxim Gorbatyuk blogging about web development, dotnet and frontend programming, and life."
     author: "Maxim Gorbatyuk"
-    # author: ["Me", "You"] # multiple authors
+    keywords: [Blog, Portfolio, Programming]
 
     images: ["https://mgorbatyuk.dev/images/avatar.png"]
 
