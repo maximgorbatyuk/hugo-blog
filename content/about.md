@@ -13,7 +13,7 @@ I try to understand the business domain and purposes of a project where I work. 
 
 I pay much attention on code quality and building reliable software solutions. Also, I like to share my knowledge and enjoy playing a mentor role.
 
-## My pet-projects
+## My own projects
 
 - [Tech.Interviewer](https://techinterview.space) - a platform for technical interviewers who want to keep their notes and share them as pdf with recruiters and candidates.
 - [Kazakhstan IT salaries](https://techinterview.space/salaries) - service for collecting and analyzing IT salaries in Kazakhstan. Helps people to understand the market and make better salary decisions.
