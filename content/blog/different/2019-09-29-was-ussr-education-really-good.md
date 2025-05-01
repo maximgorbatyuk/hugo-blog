@@ -6,7 +6,6 @@ tags:
   - original
   - opinion
   - thoughts
-published: true
 date: "2019-09-29"
 ---
 

@@ -2,7 +2,7 @@ baseURL: "https://mgorbatyuk.dev/"
 languageCode: "en-us"
 title: "mgorbatyuk.dev"
 theme: ["PaperMod"]
-paginate: 8
+pagination.pagerSize: 8
 
 googleAnalytics: G-0T63X4Y3MJ
 enableRobotsTXT: true
