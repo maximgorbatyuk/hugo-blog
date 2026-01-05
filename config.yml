@@ -31,7 +31,6 @@ params:
     defaultTheme: auto
     disableThemeToggle: false
     disableSpecial1stPost: false
-    comments: false
     hidemeta: false
     showtoc: false
     tocopen: false
@@ -132,17 +131,12 @@ menu:
           url: /search/
           weight: 40
 
-        - identifier: speaking
-          name: Public speaking
-          url: /speaking/
-          weight: 50
-
-        - identifier: photography
-          name: Photogaphy
-          url: /photography/
-          weight: 60
-        
         - identifier: kb
           name: KB
           url: https://maximgorbatyuk.notion.site/maximgorbatyuk/Knowledge-base-f87dcc7b0e98498499cfd606d06bd0c7
           weight: 70
+
+        - identifier: EV Charge Tracker
+          name: EV Charge Tracker (iOS)
+          url: https://mgorbatyuk.dev/ev-charging-tracker/
+          weight: 80
