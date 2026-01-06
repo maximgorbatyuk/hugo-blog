@@ -53,7 +53,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Maxim Gorbatyuk
-        subtitle: Software .NET developer, teamlead, and mentor
+        subtitle: Software engineer, teamlead, and mentor
         imageUrl: "/images/wowphoto_2000.jpg"
         imageWidth: 425
         imageHeight: 425
@@ -63,8 +63,6 @@ params:
               url: blog
             - name: About me
               url: about
-            - name: Public speaking
-              url: speaking
 
     # home-info mode
     homeInfoParams:
@@ -78,8 +76,6 @@ params:
           url: "https://t.me/maximgorbatyuk"
         - name: github
           url: "https://github.com/maximgorbatyuk"
-        - name: gitlab
-          url: "https://gitlab.com/maximgorbatyuk"
         
 
     #analytics:
@@ -130,13 +126,3 @@ menu:
           name: Search
           url: /search/
           weight: 40
-
-        - identifier: kb
-          name: KB
-          url: https://maximgorbatyuk.notion.site/maximgorbatyuk/Knowledge-base-f87dcc7b0e98498499cfd606d06bd0c7
-          weight: 70
-
-        - identifier: EV Charge Tracker
-          name: EV Charge Tracker (iOS)
-          url: https://mgorbatyuk.dev/ev-charging-tracker/
-          weight: 80
