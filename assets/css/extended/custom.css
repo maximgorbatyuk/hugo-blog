@@ -37,3 +37,29 @@ body {
 .dark body {
     background-image: radial-gradient(circle, rgba(255, 255, 255, 0.1) 1px, transparent 1px) !important;
 }
+
+/* Content containers with solid background */
+.post-single,
+.list .main {
+    background: var(--theme);
+    padding: 2rem;
+    border-radius: var(--radius);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.dark .post-single,
+.dark.list .main {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+/* Exclude homepage profile from container styling */
+.list .main:has(.profile) {
+    background: transparent;
+    padding: 0;
+    box-shadow: none;
+    border-radius: 0;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
