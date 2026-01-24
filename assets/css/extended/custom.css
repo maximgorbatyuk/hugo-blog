@@ -1,0 +1,39 @@
+:root {
+    --accent-color: rgb(238, 122, 13);
+}
+
+a:not(.button):hover {
+    color: var(--accent-color);
+}
+
+.footer a:hover {
+    color: var(--accent-color) !important;
+    border-bottom-color: var(--accent-color) !important;
+}
+
+.button:hover {
+    background: var(--accent-color) !important;
+    box-shadow: 0 0 5px 5px rgba(30, 30, 30, 0.1) !important;
+}
+
+.pagination a {
+    color: var(--theme);
+}
+
+.share-buttons a,
+.terms-tags a {
+    color: var(--theme);
+}
+
+.post-entry:hover {
+    border-color: var(--accent-color);
+}
+
+body {
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0.1) 1px, transparent 1px) !important;
+    background-size: 20px 20px !important;
+}
+
+.dark body {
+    background-image: radial-gradient(circle, rgba(255, 255, 255, 0.1) 1px, transparent 1px) !important;
+}
