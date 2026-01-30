@@ -11,17 +11,17 @@
   {{- end }}
   {{/* Custom external URLs - add more here as needed */}}
   <url>
-    <loc>https://maximgorbatyuk.notion.site/ip-kazakhstan-tutorial</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://mgorbatyuk.dev/ev-charging-tracker</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://mgorbatyuk.dev/journey-wallet</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mgorbatyuk.dev/markdown-reader</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
