@@ -21,6 +21,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://mgorbatyuk.dev/slothy-terminal</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://mgorbatyuk.dev/markdown-reader</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
