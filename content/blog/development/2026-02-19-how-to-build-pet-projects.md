@@ -2,7 +2,7 @@
 layout: post
 title: "Как довести пет-проект до релиза"
 category: development
-tags: [pet-projects, development]
+tags: [pet-projects, development, original]
 date: "2026-02-19"
 description: "Пет-проекты умирают, когда ими никто не пользуется, а не пользуются ими потому, что не могут даже попробовать, ведь их не доводят до релиза. В статье разберем, как с этим быть и что делать"
 cover:
