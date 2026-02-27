@@ -4,13 +4,26 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Hugo static site blog (mgorbatyuk.dev) using the PaperMod theme. The `public/` directory is a git submodule pointing to the GitHub Pages deployment repository (maximgorbatyuk.github.io).
+This is a Hugo static site blog (mgorbatyuk.dev) using the PaperMod theme. The blog is primarily in Russian with some English translations. The `public/` directory is a git submodule pointing to the GitHub Pages deployment repository (maximgorbatyuk.github.io).
+
+**Requires:** Hugo v0.156.0+ extended (`brew install hugo`)
+
+## Blogpost rules
+
+- Articles are placed in folder `/content/blog/`
+- Images for blogposts should be placed to folder `/static/images/blog/<categiry_name>/<YYYY-MM-DD>/`
+
+## Docs
+
+- Text style is described in `editorial-instructions.md`
+- File `prompts.md` contains useful prompts to review and correct articles, and generate images
 
 ## Commands
 
+- **Clone with submodules:** `git clone --recurse-submodules` (or run `git submodule update --init` after clone)
 - **Local development server:** `hugo server -D` (includes drafts)
 - **Build site:** `hugo`
-- **Deploy to production:** `./deploy.sh` or `./deploy.sh "commit message"` - builds and pushes to GitHub Pages
+- **Deploy to production:** `./deploy.sh` or `./deploy.sh "commit message"` — builds and pushes `public/` submodule to GitHub Pages. **This updates the live site.**
 - **Create new post:** `hugo new blog/<category>/<date>-<slug>.md`
 
 ## Architecture
@@ -27,6 +40,8 @@ Blog posts are organized in `content/blog/` by category:
 
 Standalone pages live directly in `content/` (about.md, archive.md, search.md, speaker.md).
 
+**Bilingual posts:** English translations use the `-en` suffix (e.g., `2026-02-19-how-to-build-pet-projects.md` → `2026-02-20-how-to-build-pet-projects-en.md`).
+
 ### Post Front Matter
 
 Posts use YAML front matter with these fields:
@@ -38,6 +53,8 @@ category: development
 tags: [tag1, tag2]
 date: "YYYY-MM-DD"
 description: "Short description for SEO"
+cover:
+  image: "/images/blog/<category>/<date>/cover.png"  # optional
 ---
 ```
 
@@ -45,7 +62,7 @@ description: "Short description for SEO"
 
 - Theme: PaperMod (in `themes/PaperMod/`, managed as submodule)
 - Custom layouts override theme in `layouts/` (currently only `_default/sitemap.xml`)
-- Custom CSS can be added in `assets/`
+- Custom CSS goes in `assets/css/extended/`
 - Static files (images, PDFs) go in `static/`
 
 ### Configuration
