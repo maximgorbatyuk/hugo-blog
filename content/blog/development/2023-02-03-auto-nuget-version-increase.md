@@ -125,7 +125,7 @@ jobs:
           NUGET_KEY: ${{secrets.NUGET_API_KEY}}
 ```
 
-The `NUGET_API_KEY` is a Github secret variable that contains the API key for nuget.org. [Here](https://learn.microsoft.com/en-us/nuget/nuget-org/publish-a-package) you can learn how to get it. Here is a screenshot of the secret variable in my repository:
+The `NUGET_API_KEY` is a Github secret variable that contains the API key for nuget.org. You can learn how to get it in the [official NuGet publishing documentation](https://learn.microsoft.com/en-us/nuget/nuget-org/publish-a-package). Here is a screenshot of the secret variable in my repository:
 
 ![Nuget API key as secret](/images/blog/development/2023-02-03/github_secrets.png)
 
