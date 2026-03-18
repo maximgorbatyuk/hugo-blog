@@ -1,9 +1,9 @@
 ---
-title: "Public speaking"
+title: "Speaking & talks"
 layout: "speaking"
 url: "/speaking"
 summary: "speaking"
-description: ""
+description: "Recordings and materials from my public talks and workshops."
 disableShare: true
 ---
 

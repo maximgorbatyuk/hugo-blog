@@ -7,7 +7,7 @@ date: "2022-05-09"
 description: "The only balance between interests leads to product version delivery which is the primary goal of the project processes. As much strong pressure will be applied from every side of impact, as much better quality the product will get. What conflicts I mean, you can find out in this article."
 ---
 
-*RU version of this blogpost is [here](https://maximgorbatyuk.github.io/blog/management/2022-05-08-conflicts-in-it/)*
+*[Russian version of this post](https://mgorbatyuk.dev/blog/management/2022-05-08-conflicts-in-it/)*
 
 Only conflicts of interest lead projects to make progress. The project may be any: it-product, building houses, or society and state regime. In systems where its elements keep being static, life stops. Everyone is satisfied with everything he has at the moment.
 

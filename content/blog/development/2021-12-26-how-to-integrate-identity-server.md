@@ -33,23 +33,23 @@ Feel free to consider my repository as an instruction to integrate the IS4 from 
 
 ### Setup your IS4
 
-1. Add your own Scope to restrict access to different APIs (like [here](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/IdentityConfig.cs#L26)). If your application has now domain segregation with different scopes, you may not use the custom scope or just use a single one. Here I use “core.api” as a key of the scope, but you may choose any other name.
-2. Add clients of the IS4 ([like here](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/IdentityConfig.cs#L30)). To proof the concept, I am adding a web-browser-debug client like [this](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/Clients/WebBrowserStubClient.cs#L7). The client allows me to see claims which are being encrypted in the JWT token. Also, don’t forget to mention your own scope in the clients’ allowed scopes property (like [here](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/Clients/InteractiveMvcClient.cs#L26)).
-3. __Optional__ Add external login providers like Google authentication if necessary. [Here](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/ExternalAuthProviders.cs#L13) I have a sample code that integrates the Google. Also, the Facebook, GitHub, ActiveDirectory, etc, providers are available to be used.
-4. __Optional__ In [this Custom profile service](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/CustomProfileService.cs#L20) you may change claims which will be used to prepare a JWT token for clients.
+1. Add your own Scope to restrict access to different APIs (e.g. [IdentityConfig.cs scope](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/IdentityConfig.cs#L26)). If your application has now domain segregation with different scopes, you may not use the custom scope or just use a single one. Here I use “core.api” as a key of the scope, but you may choose any other name.
+2. Add clients of the IS4 ([IdentityConfig.cs clients](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/IdentityConfig.cs#L30)). To proof the concept, I am adding a web-browser-debug client ([WebBrowserStubClient.cs](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/Clients/WebBrowserStubClient.cs#L7)). The client allows me to see claims which are being encrypted in the JWT token. Also, don’t forget to mention your own scope in the clients’ allowed scopes property ([InteractiveMvcClient.cs allowed scopes](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/Clients/InteractiveMvcClient.cs#L26)).
+3. __Optional__ Add external login providers like Google authentication if necessary. [ExternalAuthProviders.cs Google sample](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/ExternalAuthProviders.cs#L13) I have a sample code that integrates the Google. Also, the Facebook, GitHub, ActiveDirectory, etc, providers are available to be used.
+4. __Optional__ In [CustomProfileService.cs](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/CustomProfileService.cs#L20) you may change claims which will be used to prepare a JWT token for clients.
 
 ### Setup your Web API application
 
 Here I will give you an example using ASP.NET core Web API. I believe it is easy to find tutorials of integrating OAuth2.0 authentication services for other web frameworks for other programming languages.
 
-1. Add Bearer authentication with the IS4 URL address (like [this](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/WebApi/Startup.cs#L16)).
-2. __Optional__ Add scope authorization to restrict accesses (like [this](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/WebApi/Startup.cs#L30)).
+1. Add Bearer authentication with the IS4 URL address ([WebApi Startup.cs](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/WebApi/Startup.cs#L16)).
+2. __Optional__ Add scope authorization to restrict accesses ([Startup.cs scope authorization](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/WebApi/Startup.cs#L30)).
 
 If you do step 2, and your Client without the scope does a web request, it will get a 403 error.
 
 ### Setup debug client like [OAuth 2.0 debugger](https://oauthdebugger.com)
 
-1. Add the client like [this](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/Clients/WebBrowserStubClient.cs#L14).
+1. Add the client ([WebBrowserStubClient.cs example](https://github.com/maximgorbatyuk/IdentityServerForAll/blob/master/src/IdentityServer/Config/Clients/WebBrowserStubClient.cs#L14)).
 2. Go to URL below:
 
 ```

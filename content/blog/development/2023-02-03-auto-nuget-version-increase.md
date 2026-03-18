@@ -133,4 +133,4 @@ That's all. Now you can push your code to the `dev` branch and it will be tested
 
 If you want to use the same approach in [Gitlab CI](https://docs.gitlab.com/ee/ci/variables/predefined_variables.html), you may use `CI_PIPELINE_IID` variable instead of `github.run_number`. It represents the project-level IID (internal ID) of the current pipeline as well as github.run_number in Github Actions.
 
-I hope this tutorial will be useful for you. If you have any questions, you may find my contacts [here](https://maximgorbatyuk.com/about/#where-you-can-find-me).
+I hope this tutorial will be useful for you. If you have any questions, you can find my contacts [on my about page](https://mgorbatyuk.dev/about/#where-you-can-find-me).

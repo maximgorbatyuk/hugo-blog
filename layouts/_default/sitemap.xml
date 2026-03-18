@@ -11,37 +11,37 @@
   {{- end }}
   {{/* Custom external URLs - add more here as needed */}}
   <url>
-    <loc>https://mgorbatyuk.dev/ev-charging-tracker</loc>
+    <loc>https://mgorbatyuk.dev/ev-charging-tracker/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mgorbatyuk.dev/journey-wallet</loc>
+    <loc>https://mgorbatyuk.dev/journey-wallet/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mgorbatyuk.dev/creativity-hub</loc>
+    <loc>https://mgorbatyuk.dev/creativity-hub/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mgorbatyuk.dev/slothy-terminal</loc>
+    <loc>https://mgorbatyuk.dev/slothy-terminal/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mgorbatyuk.dev/repolyze</loc>
+    <loc>https://mgorbatyuk.dev/repolyze/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mgorbatyuk.dev/markdown-reader</loc>
+    <loc>https://mgorbatyuk.dev/markdown-reader/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

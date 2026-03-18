@@ -4,7 +4,7 @@ title: "How to Bring Pet Projects to Market"
 category: development
 tags: [pet-projects, development, original]
 date: "2026-02-20"
-description: "Pet projects often die because no one uses them, and no one uses them because they never reach release. In this article, I explain why that happens and what to do about it."
+description: "Why pet projects never reach release and what to do: time, production, habits. Short and practical."
 cover:
   image: "/images/blog/development/2026-02-19/how-to-build-pet-projects-cover.png"
 ---
