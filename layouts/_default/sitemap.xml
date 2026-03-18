@@ -21,7 +21,17 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://mgorbatyuk.dev/creativity-hub</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://mgorbatyuk.dev/slothy-terminal</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mgorbatyuk.dev/repolyze</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
