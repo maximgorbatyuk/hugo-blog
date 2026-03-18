@@ -57,6 +57,6 @@ A good manager differs from a bad one because he can prove his arguments by metr
 ## Why it is crucial to mind conflicts
 People as team members should consider conflicts as a way to reach a common goal. They should not fight against personalities. Meanwhile, every team member follows their interests during project implementation. Very often, those interests stand opposite each other.
 
-![](/images/blog/management/2022-05-08-conflicts-in-it/product_impacts.png)
+![Diagram of product impacts and conflicting goals in a project](/images/blog/management/2022-05-08-conflicts-in-it/product_impacts.png)
 
 The only balance between interests leads to product version delivery which is the primary goal of the project processes. As much strong pressure will be applied from every side of impact, as much better quality the product will get.

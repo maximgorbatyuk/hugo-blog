@@ -9,7 +9,7 @@ cover:
   image: "/images/blog/development/2026-02-19/how-to-build-pet-projects-cover.png"
 ---
 
-![](/images/blog/development/2026-02-19/how-to-build-pet-projects-cover.png)
+![How to bring pet projects to release — cover](/images/blog/development/2026-02-19/how-to-build-pet-projects-cover.png)
 
 Many of us dreamed of building our own game when we entered this profession. Over time, that dream often changes when we realize how much math and effort games require. That happened to me too, but the core dream stayed the same: I wanted a project where I could test ideas in architecture and development.
 

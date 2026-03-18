@@ -1,0 +1,11 @@
+{{- /* Pagination: rel=prev / rel=next for SEO (only on list pages) */}}
+{{- if or (eq .Kind "section") (eq .Kind "term") }}
+  {{- if gt .Paginator.TotalPages 1 }}
+    {{- if .Paginator.HasPrev }}
+<link rel="prev" href="{{ .Paginator.Prev.URL | absURL }}">
+    {{- end }}
+    {{- if .Paginator.HasNext }}
+<link rel="next" href="{{ .Paginator.Next.URL | absURL }}">
+    {{- end }}
+  {{- end }}
+{{- end }}

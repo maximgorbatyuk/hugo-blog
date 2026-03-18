@@ -1,5 +1,9 @@
 # Useful prompts
 
+## SEO and accessibility (images)
+
+When writing or editing posts, use descriptive alt text for all images. In markdown, use the form `![Short descriptive phrase](path)` instead of `![](path)`. The alt text should describe the image content or its role in the article (e.g. `![Diagram of product impacts](path)`, `![Cover: How to bring pet projects to release](path)`). This helps accessibility and image SEO.
+
 ## Blogpost analyzer
 
 ```
