@@ -6,12 +6,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a Hugo static site blog (mgorbatyuk.dev) using the PaperMod theme. The blog is primarily in Russian with some English translations. The `public/` directory is a git submodule pointing to the GitHub Pages deployment repository (maximgorbatyuk.github.io).
 
-**Requires:** Hugo v0.156.0+ extended (`brew install hugo`)
+**Requires:** Hugo v0.158.0+ extended (`brew install hugo`)
 
 ## Blogpost rules
 
 - Articles are placed in folder `/content/blog/`
-- Images for blogposts should be placed to folder `/static/images/blog/<categiry_name>/<YYYY-MM-DD>/`
+- Images for blogposts should be placed to folder `/static/images/blog/<category_name>/<YYYY-MM-DD>/`
 
 ## Docs
 
@@ -38,7 +38,7 @@ Blog posts are organized in `content/blog/` by category:
 - `different/` - Miscellaneous topics
 - `videos/` - Video content references
 
-Standalone pages live directly in `content/` (about.md, archive.md, search.md, speaker.md).
+Standalone pages live directly in `content/` (about.md, archive.md, ev-charging-tracker.md, photography.md, privacy.md, projects.md, search.md, speaker.md).
 
 **Bilingual posts:** English translations use the `-en` suffix (e.g., `2026-02-19-how-to-build-pet-projects.md` → `2026-02-20-how-to-build-pet-projects-en.md`).
 
@@ -61,7 +61,7 @@ cover:
 ### Theme Customization
 
 - Theme: PaperMod (in `themes/PaperMod/`, managed as submodule)
-- Custom layouts override theme in `layouts/` (currently only `_default/sitemap.xml`)
+- Custom layouts override theme in `layouts/` (`_default/sitemap.xml`, `partials/extend_head.html`, `partials/footer.html`, `partials/header.html`)
 - Custom CSS goes in `assets/css/extended/`
 - Static files (images, PDFs) go in `static/`
 

@@ -35,12 +35,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mgorbatyuk.dev/repolyze/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://mgorbatyuk.dev/markdown-reader/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
