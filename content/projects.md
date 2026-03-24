@@ -39,7 +39,7 @@ A community platform for AI enthusiasts, developers, and researchers in Kazakhst
 An iOS app for tracking electric vehicle charging sessions and expenses. Monitors cost per kilometer, provides 6-month expense statistics with charts, and includes maintenance planning with reminders. All data is stored locally on the device — no data collection or sharing. Open source under MIT License.
 
 - **For whom:** Electric vehicle owners who want to track charging costs and driving efficiency
-- **Link:** [App Store](https://apps.apple.com/app/id6754165643), [Landing page](https://mgorbatyuk.dev/ev-charging-tracker/)
+- **Link:** [App Store](https://apps.apple.com/app/id6754165643), [Landing page](https://evchargetracker.app/)
 - **Tech stack:** SwiftUI, Swift, iOS 18+
 - **Vibecoding used:** Yes
 
