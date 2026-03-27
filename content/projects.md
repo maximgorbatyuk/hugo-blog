@@ -25,6 +25,15 @@ A Rust-based CLI and TUI tool for analyzing local Git repositories. Provides con
 - **Tech stack:** Rust, SQLite, macOS & Linux
 - **Vibecoding used:** Yes
 
+## databasecli (cli)
+
+A Rust-based CLI and TUI tool for managing PostgreSQL database connections from the terminal. Stores multiple connection configs in a single INI file, runs health checks with real-time feedback, and supports both scripting and interactive modes. Includes MCP integration for AI-assisted database management with Claude Code. Open source under MIT License.
+
+- **For whom:** Backend developers, DBAs, and DevOps engineers who manage multiple PostgreSQL databases
+- **Link:** [databasecli.app](https://databasecli.app), [GitHub](https://github.com/maximgorbatyuk/databasecli)
+- **Tech stack:** Rust, PostgreSQL, macOS & Linux & Windows
+- **Vibecoding used:** Yes
+
 ## Claude Community Kazakhstan (website)
 
 A community platform for AI enthusiasts, developers, and researchers in Kazakhstan who build with Claude. Facilitates knowledge sharing, collaborative projects, and learning about AI capabilities. Supports Russian, English, and Kazakh languages. Open source on GitHub.
